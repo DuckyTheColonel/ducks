@@ -1,0 +1,13 @@
+# Ignore Gradle project-specific cache directory
+.idea
+.gradle
+.vscode
+
+# Ignore Gradle build output directory
+build
+bin
+run*
+
+plugins
+
+.DS_Store
